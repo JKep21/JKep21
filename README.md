@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JKep21
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python for Data Analysis (Pandas, Numpy, etc.)
+- 🌱 I’m currently learning Python and relevant packages for Data Analysis (Pandas, Numpy, etc.)
 - 💞️ I’m looking to collaborate on beginner coding & statistical data
 - 📫 How to reach me 
 
